@@ -1,2 +1,2 @@
 # bootcamp
-fullstack development bootcamp - netflix projects
+fullstack development bootcamp - netflix project
